@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/69a64c1db5c749cbf9b3cb40c1248ebdc6f6b778
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadev&label=Profile%20views&color=0e75b6&style=flat" alt="mahadev" /> </p>
 
-- 🔭 I’m currently working on **Netflix's Dashboard**
+- 🔭 I’m currently working on **a blogging website..**
 
 - 🌱 I’m currently learning **Data Analytics**
 
